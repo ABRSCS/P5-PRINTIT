@@ -90,12 +90,7 @@ Aucune dépendance ou installation supplémentaire n’est requise.
 
 ***
 
-## Aperçu
-
-![Aperçu du site Print it !](assets/images/slideshow
-
-Projet réalisé dans le cadre du Projet 5 – OpenClassrooms (ou autre formation).  
-Contact : [contact@print-it.tld](mailto:contact@print-it.tld)
+Projet réalisé dans le cadre du Projet 5 – OpenClassrooms.  
 
 ***
 
